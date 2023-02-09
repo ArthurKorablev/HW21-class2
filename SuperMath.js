@@ -20,7 +20,6 @@ class SuperMath {
     check(obj = this.obj) {
         let check = confirm(`Would you like ${obj.x} ${obj.znak} ${obj.y}`);
         let resalt;
-
         if (check) {
             switch (obj.znak) {
                 case "+":
