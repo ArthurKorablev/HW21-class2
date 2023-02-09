@@ -1,0 +1,23 @@
+{
+  "name": "hw21-class2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "server": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArthurKorablev/HW21-class2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArthurKorablev/HW21-class2/issues"
+  },
+  "homepage": "https://github.com/ArthurKorablev/HW21-class2#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
