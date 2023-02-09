@@ -22,7 +22,7 @@ class SuperMath {
         let resalt;
 
         if (check) {
-                switch (obj.znak) {
+            switch (obj.znak) {
                 case "+":
                     resalt = Number(obj.x) + Number(obj.y);
                     break;
